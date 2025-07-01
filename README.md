@@ -25,8 +25,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/EanglyTe/NarutoC2.git
-cd ZxCDDoS/
+git clone https://github.com/Hiroshi-99/NarutoC2.git
+cd NarutoC2/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
