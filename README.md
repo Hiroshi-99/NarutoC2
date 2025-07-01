@@ -49,7 +49,6 @@ python3 c2.py
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
 SkyWtkhIsBack (Example Panel and L7 methods <3)
 Empfaked (Layer 7 methods <3)
 HyukIsBack (Layer 7 methods <3)
